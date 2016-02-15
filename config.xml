@@ -9,16 +9,16 @@
 
     <!-- Para que se puedan instalar mas de una app, hay que cambiar el nombre final del id example-- example2, example3 -->
 
-    <name>APP1 Datos del alumno</name>
+    <name>Datos del dispositivo</name>
 
     <description>
-        Muestra los datos del alumno
+        Muestra la version del Android, el nombre del equipo, etc
     </description>
 
     <preference name="phonegap-version" value="3.1.0" />
 	
     <author href="https://build.phonegap.com" email="support@phonegap.com">
-        JAGH
+        Escribe tu nombre
     </author>
 	
 
